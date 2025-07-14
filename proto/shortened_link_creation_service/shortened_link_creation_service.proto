@@ -24,7 +24,3 @@ message ReturnURLRequest{
 message ReturnURLResponse{
   string url =1;
 }
-
-message ReturnURLResponseee{
-  string url =1;
-}
